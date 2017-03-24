@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto');
 
 html {
   font: 16px/1.5 'Open Sans', sans-serif;
@@ -6,7 +6,7 @@ html {
 
 @media (min-width: 30rem) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -146,14 +146,23 @@ code {
 pre > code {
   padding: 0;
 }
-
 .container {
   max-width: 30rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
 
-.circular {
+div.centeredtext {
+  text-align: center;
+}
+div.tagline {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  color: #111;
+  line-height: 1.5rem;
+}
+.circular300 {
   margin: 0 auto 2em auto;
   width: 300px;
   height: 300px;
@@ -161,4 +170,43 @@ pre > code {
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
   background: url(../img/profile.jpg) no-repeat;
+}
+
+div#Ricons {
+  text-align: center;
+  margin: 0 auto;
+}
+a.Ricon {
+  text-decoration: none;
+}
+img.Ricon {
+    display: inline-block;
+    height: 48px; 
+    -webkit-filter: grayscale(100%);
+    -moz-filter:    grayscale(100%);
+    -ms-filter:     grayscale(100%);
+    -o-filter:      grayscale(100%);
+    filter: gray; 
+}
+img.Ricon:hover {
+    filter: none;
+    -webkit-filter: grayscale(0%);
+    -moz-filter:    grayscale(0%);
+    -ms-filter:     grayscale(0%);
+    -o-filter:      grayscale(0%);
+    cursor: pointer;
+}
+a img.gs {
+    margin-left: auto;
+    margin-right: 0.5rem;
+}
+a img.rg {
+    margin-left: 0.5rem;
+    margin-right: auto;
+}
+
+figcaption {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  margin-top: 0.5rem;
 }

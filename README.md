@@ -1,1 +1,1 @@
-Personal website for Will LePage.
+Personal website for Will LePage, built with Jekyll on the [Solo theme](https://chibicode.github.io/solo/) by Shu Uesugi.
