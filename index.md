@@ -10,7 +10,7 @@ layout: default
 My thesis investigates the fatigue and fracture of shape memory alloys with techniques that redefine the limits of experimental mechanics. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet though engineering. 
 
 
-For more about me and my research, explore this website or visit my profiles on Google Scholar and ResearchGate:
+Find out more about my research on this website and on Google Scholar and ResearchGate:
 
 <div id="Ricons">
 <a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
