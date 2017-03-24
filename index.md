@@ -57,7 +57,7 @@ En route to building new understandings about material degradation and failure, 
 	+ voltage measurements during galvanostatic cycling indicate mass transport effects by changing from "peaking" to "arcing"
 	+ my major contributions to this work: quantitative measurement of dead Li layer thickness with SEM images; coin cell fabrication and testing
 ![Dead lithium mass transport effects](img/TOC_deadLi.png "Dead lithium mass transport effects")
-1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. doi:10.1007/s11340-016-0129-2.
+1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2).
 	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
 	+ eliminates saturated pixels to preserve sub-pixel displacement resolution
 	+ improves correlation confidence interval by about 10%
