@@ -1,0 +1,10 @@
+# Site settings
+title: Will Lepage
+tag_text: Will LePage
+description: Personal website for Will LePage.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md","LICENSE.md"]
+sass:
+  style: compressed
