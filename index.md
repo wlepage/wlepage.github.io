@@ -27,7 +27,7 @@ Find out more about my research on this website and on Google Scholar and Resear
 
 ## Education
 <figure>
-	<img src="../img/Michigan3.png" width="100" />
+	<img src="img/Michigan3.png" width="100" />
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
 	<figcaption>Ph.D., Mechanical Engineering, expected 2018</figcaption>
@@ -36,7 +36,7 @@ Find out more about my research on this website and on Google Scholar and Resear
 </figure>
 <p>&nbsp;</p>
 <figure>
-	<img src="../img/Tulsa2.png" width="90" />
+	<img src="img/Tulsa2.png" width="90" />
 	<div class="centeredtext">
 	<h3>University of Tulsa</h3>
 	<figcaption>B.S., Mechanical Engineering, 2013, <em>summa cum laude</em></figcaption>
