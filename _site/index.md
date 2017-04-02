@@ -7,7 +7,7 @@ layout: default
 
 
 
-Broadly, my research probes the coupled interactions in solid materials, such as mechanical, thermal, and chemical effects. My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through engineering. 
+My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through engineering. 
 
 
 Find out more about my research on this website and on Google Scholar and ResearchGate:
@@ -47,11 +47,11 @@ Find out more about my research on this website and on Google Scholar and Resear
 
 Technologies to combat climate change require advancements in materials for lightweight structures and energy storage systems. My research focuses on understanding and enhancing the durability limits of energy materials, with an emphasis on shape memory alloys (SMAs) and lithium metal anodes. 
 
-SMAs are unique metals that are most commonly used in biomedical devices such as stents and root canal files, but can also be leveraged to make weight-saving actuators with exceptionally low mass and high specific power. Currently, SMA actuators are limited in their cyclic capacity and confound durability predictions because of their complex phase transformations. New insights on the fundamental damage mechanisms in SMAs will enable more cyclic durability, better failure predictions, and ultimately new frontiers for lightweight structures with these promising materials.
+SMAs are unique metals that are most commonly used in biomedical devices such as stents and root canal files, but can also be leveraged to make weight-saving actuators with exceptionally low mass and high specific power. Currently, SMA actuators are limited in their cyclic capacity and confound durability predictions because of their complex phase transformations. New insights on the fundamental damage mechanisms in SMAs will enable more cyclic durability, better failure predictions, and new frontiers for lightweight structures with these promising materials.
 
 In addition, I investigate the connections between battery performance and the coupled mechanical, thermal, and electrochemical properties of materials for next-generation batteries with lithium metal anodes.
 
-En route to building new understandings about material degradation and failure, I am developing new experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales and among physical potentials such as mechanical, electrical, chemical, and thermal effects. 
+En route to building new understandings about material degradation and failure, I am developing novel experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales and among physical potentials such as mechanical, electrical, chemical, and thermal effects. 
 
 ## Peer-reviewed journal publications
 1. __LePage W__, Shaw J, Daly S. Optimized paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, _submitted_, 2017.
