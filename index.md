@@ -55,13 +55,15 @@ En route to building new understandings about material degradation and failure, 
 
 ## Peer-reviewed journal publications
 1. __LePage W__, Shaw J, Daly S. Optimized paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, _submitted_, 2017.
-1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d). __Major findings__:
+1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d).
+Major findings:
 	+ during continued cycling, dead Li accumulates and impedes ionic mass transport, requiring a greater concentration gradient for diffusion
 	+ this accumulated dead Li is responsible for capacity fade in Li metal full cells, before dendrite shorting or electrolyte depletion occur
 	+ voltage measurements during galvanostatic cycling indicate mass transport effects by changing from "peaking" to "arcing"
 	+ my major contributions to this work: quantitative measurement of dead Li layer thickness with SEM images; coin cell fabrication and electrochemical testing
 ![Dead lithium mass transport effects](img/TOC_deadLi.png "Dead lithium mass transport effects")
-1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2). __Major findings__:
+1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2).
+Major findings:
 	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
 	+ eliminates saturated pixels to preserve sub-pixel displacement resolution
 	+ improves correlation confidence interval by about 10%
