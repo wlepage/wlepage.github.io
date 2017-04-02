@@ -7,7 +7,7 @@ layout: default
 
 
 
-Broadly, my research probes the coupled mechanical, thermal, and chemical effects of solid materials. My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through engineering. 
+Broadly, my research probes the coupled interactions in solid materials, such as mechanical, thermal, and chemical effects. My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through engineering. 
 
 
 Find out more about my research on this website and on Google Scholar and ResearchGate:
@@ -51,27 +51,22 @@ SMAs are unique metals that are most commonly used in biomedical devices such as
 
 In addition, I investigate the connections between battery performance and the coupled mechanical, thermal, and electrochemical properties of materials for next-generation batteries with lithium metal anodes.
 
-En route to building new understandings about material degradation and failure, I am developing new experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales. 
+En route to building new understandings about material degradation and failure, I am developing new experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales and among physical potentials such as mechanical, electrical, chemical, and thermal effects. 
 
 ## Peer-reviewed journal publications
 1. __LePage W__, Shaw J, Daly S. Optimized paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, _submitted_, 2017.
-
 1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d).
-
-Major findings:
 	+ during continued cycling, dead Li accumulates and impedes ionic mass transport, requiring a greater concentration gradient for diffusion
 	+ this accumulated dead Li is responsible for capacity fade in Li metal full cells, before dendrite shorting or electrolyte depletion occur
 	+ voltage measurements during galvanostatic cycling indicate mass transport effects by changing from "peaking" to "arcing"
 	+ my major contributions to this work: quantitative measurement of dead Li layer thickness with SEM images; coin cell fabrication and electrochemical testing
 ![Dead lithium mass transport effects](img/TOC_deadLi.png "Dead lithium mass transport effects")
-
 1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2).
 	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
 	+ eliminates saturated pixels to preserve sub-pixel displacement resolution
 	+ improves correlation confidence interval by about 10%
 	+ reduces 2-D DIC error by up to 60%
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Dead lithium mass transport effects")
-
 1. Athuada T, __LePage W__, Chalker J, Ozer R. High density growth of ZnO nanorods on cotton fabric enables access to a flame resistant composite. _RSC Advances_, 2014. [doi:10.1039/C4RA01543F](http://doi.org/10.1039/C4RA01543F).
 
 ## Awards
