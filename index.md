@@ -51,7 +51,7 @@ SMAs are unique metals that are most commonly used in biomedical devices such as
 
 In addition, I investigate the connections between battery performance and the coupled mechanical, thermal, and electrochemical properties of materials for next-generation batteries with lithium metal anodes.
 
-En route to building new understandings about material degradation and failure, I am developing novel experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales and among physical potentials such as mechanical, electrical, chemical, and thermal effects. 
+En route to building new understandings about material degradation and failure, I am developing novel experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales, as well as among mechanical, electrical, chemical, and thermal potentials. 
 
 ## Peer-reviewed journal publications
 1. __LePage W__, Shaw J, Daly S. Optimized paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, _submitted_, 2017.
