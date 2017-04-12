@@ -60,7 +60,6 @@ Major findings:
 	+ during continued cycling, dead Li accumulates and impedes ionic mass transport, requiring a greater concentration gradient for diffusion
 	+ this accumulated dead Li is responsible for capacity fade in Li metal full cells, before dendrite shorting or electrolyte depletion occur
 	+ voltage measurements during galvanostatic cycling indicate mass transport effects by changing from "peaking" to "arcing"
-	+ my major contributions to this work: quantitative measurement of dead Li layer thickness with SEM images; coin cell fabrication and electrochemical testing
 ![Dead lithium mass transport effects](img/TOC_deadLi.png "Dead lithium mass transport effects")
 1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2). <br /><br />
 Major findings:
