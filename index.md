@@ -7,7 +7,7 @@ layout: default
 
 
 
-My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through excellence in engineering. 
+My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through engineering. 
 
 
 Find out more about my research on this website and on Google Scholar and ResearchGate:
@@ -54,6 +54,7 @@ In addition, I investigate the connections between battery performance and the c
 En route to building new understandings about material degradation and failure, I am developing novel experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales, as well as among mechanical, electrical, chemical, and thermal potentials. 
 
 ## Selected publications
+1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Fatigue crack growth in nanocrystalline NiTi SMA. _Journal of Materials Research_, (invited feature paper), in preparation, 2017. <br /><br />
 1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d). <br /><br />
 Major findings:
 	+ during continued cycling, dead Li accumulates and impedes ionic mass transport, requiring a greater concentration gradient for diffusion
