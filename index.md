@@ -30,7 +30,7 @@ Find out more about my research on this website and on Google Scholar and Resear
 	<img src="img/Michigan3.png" width="100" />
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
-	<figcaption>Ph.D., Mechanical Engineering, expected 2018</figcaption>
+	<figcaption>Ph.D., Mechanical Engineering, expected May 2018</figcaption>
 	<figcaption>M.S.E., Mechanical Engineering, 2015</figcaption>
 	</div>
 </figure>
