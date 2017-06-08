@@ -55,6 +55,7 @@ En route to building new understandings about material degradation and failure, 
 1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, submitted, 2017. <br /><br />
 Major findings:
 	+ because black paint absorbs light and white paint scatters light, black paint has superior ability to maintain contrast over a basecoat of white paint
+	+ false displacements (indicating DIC noise floor) are lower for black speckles than white speckles, as shown in the figure below
 	+ the optimium painted speckle pattern for DIC is a random pattern of black speckles applied with about 50% density over a basecoat of white paint
 ![Optimum paint speckles sequence](img/TOC_paintspeckles.png "Optimum paint speckles sequence")
 1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d). <br /><br />
