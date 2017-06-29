@@ -71,7 +71,11 @@ Major findings:
 	+ improves correlation confidence interval by about 10%
 	+ reduces 2-D DIC error by up to 60%
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")
-1. Athuada T, __LePage W__, Chalker J, Ozer R. High density growth of ZnO nanorods on cotton fabric enables access to a flame resistant composite. _RSC Advances_, 2014. [doi:10.1039/C4RA01543F](http://doi.org/10.1039/C4RA01543F).
+1. Athuada T, __LePage W__, Chalker J, Ozer R. High density growth of ZnO nanorods on cotton fabric enables access to a flame resistant composite. _RSC Advances_, 2014. [doi:10.1039/C4RA01543F](http://doi.org/10.1039/C4RA01543F). <br /><br />
+Major findings: 
+	+ hydrothermal growth of ZnO nanorods on cotton is aided by supporting the cotton in a PTFE frame
+	+ achieved the highest weight percentage of ZnO nanorods grown on any fibrous substrate to date
+	+ high density of ZnO nanorods provides flame resistance to cotton
 
 ## Awards
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
