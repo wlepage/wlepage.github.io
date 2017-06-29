@@ -52,9 +52,9 @@ En route to building new understandings about material degradation and failure, 
 
 ## Selected publications
 1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Fatigue crack growth in nanocrystalline NiTi SMA. _Journal of Materials Research_, (invited feature paper), submitted, 2017. <br /><br />
-1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, submitted, 2017. <br /><br />
+1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, 2017. [doi:10.1007/s40799-017-0192-3](http://doi.org/10.1007/s40799-017-0192-3).<br /><br />
 Major findings:
-	+ because black paint absorbs light and white paint scatters light, black paint has superior ability to maintain contrast over a basecoat of white paint
+	+ because black paint absorbs light and white paint scatters light, black paint has superior contrast over a basecoat of white paint than the converse sequence
 	+ patterns with black speckles had a 24% lower median normalized false displacement (0.87 μm) than the patterns with white speckles (1.14 μm), shown below as a cumulative distribution function (CDF)
 	+ the optimium painted speckle pattern for DIC is a random pattern of black speckles applied with about 50% density over a basecoat of white paint
 ![Optimum paint speckles sequence](img/TOC_paintspeckles.png "Optimum paint speckles sequence")
