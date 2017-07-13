@@ -76,6 +76,7 @@ Major findings:
 	+ hydrothermal growth of ZnO nanorods on cotton is aided by supporting the cotton in a PTFE frame
 	+ achieved the highest weight percentage of ZnO nanorods grown on any fibrous substrate to date
 	+ high density of ZnO nanorods provides flame resistance to cotton
+![SEM of ZnO nanorods on cotton fibers](img/TOC_ZnOcotton.png "SEM of ZnO nanorods on cotton fibers")
 
 ## Awards
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
