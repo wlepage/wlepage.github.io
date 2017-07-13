@@ -7,7 +7,7 @@ layout: default
 
 
 
-My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who cultivates a dedication to helping people and the planet through engineering. 
+My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I aspire to be a professor who inspires and prepares students to serve people and the planet through science and engineering. 
 
 <div id="Ricons">
 <a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
