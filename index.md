@@ -52,24 +52,30 @@ En route to building new understandings about material degradation and failure, 
 
 ## Selected publications
 1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Fatigue crack growth in nanocrystalline NiTi SMA. _Journal of Materials Research_, (invited feature paper), submitted, 2017. <br /><br />
+
 1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, 2017. [doi:10.1007/s40799-017-0192-3](http://doi.org/10.1007/s40799-017-0192-3).<br /><br />
 Major findings:
 	+ because black paint absorbs light and white paint scatters light, black paint has superior contrast over a basecoat of white paint than the converse sequence
 	+ patterns with black speckles had a 24% lower median normalized false displacement (0.87 μm) than the patterns with white speckles (1.14 μm), shown below as a cumulative distribution function (CDF)
 	+ the optimium painted speckle pattern for DIC is a random pattern of black speckles applied with about 50% density over a basecoat of white paint
+
 ![Optimum paint speckles sequence](img/TOC_paintspeckles.png "Optimum paint speckles sequence")
+
 1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d). <br /><br />
 Major findings:
 	+ during continued cycling, dead Li accumulates and impedes ionic mass transport, requiring a greater concentration gradient for diffusion
 	+ this accumulated dead Li is responsible for capacity fade in Li metal full cells, before dendrite shorting or electrolyte depletion occur
 	+ voltage measurements during galvanostatic cycling indicate mass transport effects by changing from "peaking" to "arcing"
+
 ![Dead lithium mass transport effects](img/TOC_deadLi.png "Dead lithium mass transport effects")
+
 1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2). <br /><br />
 Major findings:
 	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
 	+ eliminates saturated pixels to preserve sub-pixel displacement resolution
 	+ improves correlation confidence interval by about 10%
 	+ reduces 2-D DIC error by up to 60%
+
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")
 
 ## Awards
