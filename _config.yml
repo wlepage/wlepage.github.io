@@ -3,6 +3,9 @@ title: Will LePage
 tag_text: Will LePage
 description: Personal website for Will LePage.
 
+# Google services
+google_analytics: UA-48509241-2
+
 # Build settings
 markdown: kramdown
 exclude: ["README.md","LICENSE.md"]
