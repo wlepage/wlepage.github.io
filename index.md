@@ -74,7 +74,7 @@ Major findings:
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")<br />
 
 ## Selected awards
-+ First prize, Young Stress Analyst Competition, British Society for Strain Measurement (BSSM) Conference
++ First prize, Young Stress Analyst Competition, British Society for Strain Measurement (BSSM) Conference, 2017
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
 + Honorable mention, NSF Graduate Research Fellowship Program, 2014
 + Fellow, Tau Beta Pi Anderson Fellowship, 2013
