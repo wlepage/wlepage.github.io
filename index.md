@@ -73,11 +73,10 @@ Major findings:
 	+ reduces 2-D DIC error by up to 60%<br />
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")<br />
 
-## Awards
+## Selected awards
++ First prize, Young Stress Analyst Competition, British Society for Strain Measurement (BSSM) Conference
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
 + Honorable mention, NSF Graduate Research Fellowship Program, 2014
 + Fellow, Tau Beta Pi Anderson Fellowship, 2013
-+ All-conference athlete, NCAA Div. 1 Conference USA Outdoor Track & Field, 3000m steeplechase, 2013
-+ Goldwater Scholar, 2012
 + Udall Scholar, 2011 and 2012
 + National Merit Scholar & University of Tulsa Presidential Scholar (full scholarship), 2009
