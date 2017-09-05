@@ -78,5 +78,6 @@ Major findings:
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
 + Honorable mention, NSF Graduate Research Fellowship Program, 2014
 + Fellow, Tau Beta Pi Anderson Fellowship, 2013
++ Goldwater Scholar, 2012
 + Udall Scholar, 2011 and 2012
 + National Merit Scholar & University of Tulsa Presidential Scholar (full scholarship), 2009
