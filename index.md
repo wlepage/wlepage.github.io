@@ -80,4 +80,3 @@ Major findings:
 + Fellow, Tau Beta Pi Anderson Fellowship, 2013
 + Goldwater Scholar, 2012
 + Udall Scholar, 2011 and 2012
-+ National Merit Scholar & University of Tulsa Presidential Scholar (full scholarship), 2009
