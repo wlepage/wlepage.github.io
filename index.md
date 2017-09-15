@@ -53,7 +53,7 @@ En route to building new understandings about material degradation and failure, 
 One experimental technique that has been especially useful in my research is digital image correlation (DIC). When I learned DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature. Recently, I published a website that summarizes the fundamentals and best practices of DIC. I continue to maintain this website for the experimental mechanics community, and especially for new students and other novice users of DIC: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/).
 
 ## Selected publications
-1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Fatigue crack growth in nanocrystalline NiTi SMA. _Journal of Materials Research_, (invited feature paper), submitted, 2017. <br /><br />
+1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Fatigue crack growth in nanocrystalline NiTi SMA. _Journal of Materials Research_, (invited feature paper), accepted, 2017. <br /><br />
 
 1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, 2017. [doi:10.1007/s40799-017-0192-3](http://doi.org/10.1007/s40799-017-0192-3).<br /><br />
 Major findings:
