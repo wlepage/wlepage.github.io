@@ -9,15 +9,6 @@ layout: default
 
 My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I seek to be a professor who prepares and inspires students to serve people and the planet through science and engineering. 
 
-<div id="Ricons">
-<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
-<img class="Ricon gs" src="img/gs.png" width="48" height="48" />
-</a>
-<a class="Ricon" href="https://www.researchgate.net/profile/William_LePage">
-<img class="Ricon rg" src="img/rg.png" width="48" height="48" />
-</a>
-</div>
-
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
 
@@ -50,7 +41,7 @@ In addition, I investigate the connections between battery performance and the c
 
 En route to building new understandings about material degradation and failure, I am developing novel experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales, as well as among mechanical, electrical, chemical, and thermal potentials. 
 
-One experimental technique that has been especially useful in my research is digital image correlation (DIC). When I learned DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature. Recently, I published a website that summarizes the fundamentals and best practices of DIC. I continue to maintain this website for the experimental mechanics community, and especially for new students and other novice users of DIC: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/).
+One experimental technique that has been especially useful in my research is digital image correlation (DIC). When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature. Recently, I published a website that summarizes the fundamentals and best practices of DIC. I continue to maintain this website for the experimental mechanics community, and especially for new students and other novice users of DIC: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/).
 
 ## Selected publications
 1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Fatigue crack growth in nanocrystalline NiTi SMA. _Journal of Materials Research_, (invited feature paper), accepted, 2017. <br /><br />
