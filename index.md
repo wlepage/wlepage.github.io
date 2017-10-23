@@ -4,7 +4,7 @@ layout: default
 
 <div class="centeredtext tagline">Ph.D. Candidate, University of Michigan<br />Mechanical Engineering</div>
 <div id="mugshot">
-	<img src="img/profile.png" width="240" height="240" class="rounded8" />
+	<img src="img/profile.jpg" width="240" height="240" class="rounded8" />
 </div>
 
 
