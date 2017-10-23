@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="centeredtext tagline">Ph.D. Candidate, University of Michigan<br />Mechanical Engineering</div>
-<div class="circular300"></div>
+<div class="mugshot"></div>
 
 
 
