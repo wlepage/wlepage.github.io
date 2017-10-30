@@ -52,7 +52,7 @@ Major findings:
 	+ macroscopic fatigue crack growth correlated well with microscopic crack tip observations: the grain sizes with relatively fast macroscopic crack growth rates exhibited large crack displacements at the microscale, and vice versa
 	+ crack closure was observed with SEM-DIC on the microscale (not with an indirect measurement like crack mouth gages), and crack closure in the 1500 nm grain size was suspected to slow its crack growth rate
 	+ a surprising counter-clockwise loop was observed for all grain sizes for global stress intensity factor (K) versus microscopic measurements of crack opening displacements (Δv); for inelastic materials like NiTi, K and Δv are not work conjugates, but this result suggests that the reverse phase transformation in shape memory alloys may aid crack closure<br />
-[!Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")<br />
+![Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")<br />
 1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, 2017. [doi:10.1007/s40799-017-0192-3](http://doi.org/10.1007/s40799-017-0192-3).<br /><br />
 Major findings:
 	+ because black paint absorbs light and white paint scatters light, black paint has superior contrast over a basecoat of white paint than the converse sequence
