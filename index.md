@@ -9,7 +9,7 @@ layout: default
 
 
 
-My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I seek to be a professor who prepares and inspires students to serve people and the planet through science and engineering. 
+My passion in research is improving the performance and durability of structural, functional, and energy materials. My thesis investigates the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my PhD, I seek to be a professor who prepares and inspires students to serve people and the planet through science and engineering. 
 
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
