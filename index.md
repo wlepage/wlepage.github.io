@@ -73,6 +73,7 @@ Major findings:
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")<br />
 
 ## Selected awards
++ Honorable mention, Richard and Eleanor Towner Prize for Outstanding Ph.D. Research, 2017
 + Best poster presentation, University of Michigan Materials Research Symposium, 2017
 + First prize, Young Stress Analyst Competition, British Society for Strain Measurement (BSSM) Conference, 2017
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
