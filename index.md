@@ -35,13 +35,13 @@ I am a Ph.D. student in Mechanical Engineering at the University of Michigan. Fo
 
 Our nation's energy, health, and security needs demand better materials for lightweight structures and energy storage systems. So far, my research has focused on understanding and enhancing the durability limits of two metals (shape memory alloys and lithium metal anodes). I look to expand my research into the following thrusts.
 
-### 1. Connecting microscopic defects to macroscopic performance limits
+__1. Connecting microscopic defects to macroscopic performance limits__
 Although the bulk properties of a material determine its maximum possible performance, the "weak links" of defects can severely reduce performance. Defects are problematic in many applications, from structural parts to biomedical devices and batteries, yet they often remain poorly understood. These efforts include expanding my expertise in micromechanical experiments to gain knowledge about performance-limiting defects, and then applying this new expertise to additional areas, such as advanced composites and additively manufactured metals.
 
-### 2. Understanding and then leveraging tailorable anisotropies
+__2. Understanding and then leveraging tailorable anisotropies__
 New opportunities are emerging for structural materials with site-specific microstructures, such as tailored crystallographic orientations in additively manufactured metals. Through a multiscale experimental approach, I seek to answer, "How do site-specific microstructures interact and deform, and how can this tailorable anisotropy be optimized for structural performance?"
 
-### 3. Linking interactions among multiphysical phenomena
+__3. Linking interactions among multiphysical phenomena__
 I have studied two material systems with acute multiphysical interactions: shape memory alloys (thermo-mechanical), and lithium metal anodes (electro-chemo-mechanical). The challenges of multiphysical interactions extend into many other material systems, such as advanced metals and composites, biological materials, functional materials, and energy storage materials.
 
 ## Teaching
