@@ -31,7 +31,7 @@ I am a Ph.D. student in Mechanical Engineering at the University of Michigan. Fo
 	</div>
 </figure>
 
-## Future Research Vision
+## Research Vision
 
 Our nation's energy, health, and security needs demand better materials for lightweight structures and energy storage systems. So far, my research has focused on understanding and enhancing the durability limits of two metals (shape memory alloys and lithium metal anodes). I look to expand my research into the following thrusts.
 
