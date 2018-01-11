@@ -7,13 +7,11 @@ layout: default
 	<img src="img/profile.jpg" width="240" height="240" class="rounded8" />
 </div>
 
-
 ## Bio
-I am a Ph.D. student in Mechanical Engineering at the University of Michigan. For my dissertation, I am investigating the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. Along with my thesis, I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my Ph.D., I seek to be a professor who equips and inspires students to serve people and the planet through engineering. 
+I am a Ph.D. student in Mechanical Engineering at the University of Michigan. For my dissertation, I am investigating the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my Ph.D., I seek to be a professor who equips and inspires students to serve people and the planet through engineering. 
 
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
-
 
 ## Education
 <figure>
@@ -33,17 +31,24 @@ I am a Ph.D. student in Mechanical Engineering at the University of Michigan. Fo
 	</div>
 </figure>
 
-## Research
+## Future Research Vision
 
-Technologies to combat climate change require advancements in materials for lightweight structures and energy storage systems. My research focuses on understanding and enhancing the durability limits of energy materials, with an emphasis on shape memory alloys and lithium metal batteries. 
+Our nation's energy, health, and security needs demand better materials for lightweight structures and energy storage systems. So far, my research has focused on understanding and enhancing the durability limits of two metals (shape memory alloys and lithium metal anodes). I look to expand my research into the following thrusts.
 
-Shape memory alloys (SMAs) are unique metals that are most commonly used in biomedical devices such as stents and root canal files, but can also be leveraged to make weight-saving actuators with exceptionally low mass and high specific power. Currently, SMA actuators are limited in their cyclic capacity and confound durability predictions because of their complex phase transformations. New insights on the fundamental damage mechanisms in SMAs will enable more cyclic durability, better failure predictions, and new frontiers for lightweight structures with these promising materials.
+### 1. Connecting microscopic defects to macroscopic performance limits
+Although the bulk properties of a material determine its maximum possible performance, the "weak links" of defects can severely reduce performance. Defects are problematic in many applications, from structural parts to biomedical devices and batteries, yet they often remain poorly understood. These efforts include expanding my expertise in micromechanical experiments to gain knowledge about performance-limiting defects, and then applying this new expertise to additional areas (e.g. advanced composites additively manufactured metals).
 
-In addition, I investigate the connections between battery performance and the coupled mechanical, thermal, and electrochemical properties of materials for next-generation batteries with lithium metal anodes.
+### 2. Understanding and then leveraging tailorable anisotropies
+New opportunities are emerging for structural materials with site-specific microstructures, such as tailored crystallographic orientations in additively manufactured metals. I seek to answer, "How do site-specific microstructures interact and deform, and how can this tailorable anisotropy be optimized for structural performance?"
 
-En route to building new understandings about material degradation and failure, I am developing novel experimental frameworks to characterize material responses with unprecedented breadth and precision between the millimeter and nanometer length scales, as well as among mechanical, electrical, chemical, and thermal potentials. 
+### 3. Linking interactions among multiphysical phenomena
+I have studied two material systems with acute multiphysical interactions: shape memory alloys (thermo-mechanical), and lithium metal anodes (electro-chemo-mechanical). The challenges of multiphysical interactions extend into many other material systems, such as advanced metals and composites, biological materials, functional materials, and energy storage materials.
 
-One experimental technique that has been especially useful in my research is digital image correlation (DIC). When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature. Recently, I published a website that summarizes the fundamentals and best practices of DIC. I continue to maintain this website for the experimental mechanics community, and especially for new students and other novice users of DIC: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/).
+## Teaching
+
+I have always enjoyed helping others learn, and in graduate school, I discovered that my passion for teaching extends into formal classroom and mentoring settings. During my Ph.D., I mentored undergraduate students on their own research projects; delivered guest lectures for several courses; developed and delivered a course on renewable energy for senior citizens; and served as a graduate student instructor for a junior-level mechanics of materials course. Through these experiences, my desire to become an engineering professor has been affirmed.
+
+Along with in-person teaching and mentoring, I have created resources to help wider audiences gain knowledge. One example is digital image correlation (DIC), an experimental technique that is exploding in popularity and has been especially useful for the experiments in my dissertation. When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature and published them as a website: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/). 
 
 ## Selected publications
 1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2017. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
