@@ -31,6 +31,12 @@ I am a Ph.D. student in Mechanical Engineering at the University of Michigan. Fo
 	</div>
 </figure>
 
+
+## Teaching
+I have always enjoyed helping others learn, and in graduate school, I discovered that my passion for teaching extends into formal classroom and mentoring settings, too. During my Ph.D., I mentored undergraduate students on their own research projects; delivered guest lectures for several courses; developed and delivered a course on renewable energy for senior citizens; and served as a graduate student instructor for a junior-level mechanics of materials course. Through these experiences, my desire to become an engineering professor has been affirmed.
+
+Along with in-person teaching and mentoring, I have created resources to help wider audiences gain knowledge. One example is a website for learning digital image correlation (DIC). This experimental technique is exploding in popularity and has been especially useful for the experiments in my dissertation. When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature and published them online: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/). 
+
 ## Research Vision
 
 Our nation's energy, health, and security needs demand better materials for lightweight structures and energy storage systems. So far, my research has focused on understanding and enhancing the durability limits of two metals (shape memory alloys and lithium metal anodes). I look to expand my research into the following thrusts.
@@ -46,11 +52,6 @@ New opportunities are emerging for structural materials with site-specific micro
 __3. Linking interactions among multiphysical phenomena__
 
 I have studied two material systems with acute multiphysical interactions: shape memory alloys (thermo-mechanical), and lithium metal anodes (electro-chemo-mechanical). The challenges of multiphysical interactions extend into many other material systems, such as advanced metals and composites, biological materials, functional materials, and energy storage materials.
-
-## Teaching
-I have always enjoyed helping others learn, and in graduate school, I discovered that my passion for teaching extends into formal classroom and mentoring settings, too. During my Ph.D., I mentored undergraduate students on their own research projects; delivered guest lectures for several courses; developed and delivered a course on renewable energy for senior citizens; and served as a graduate student instructor for a junior-level mechanics of materials course. Through these experiences, my desire to become an engineering professor has been affirmed.
-
-Along with in-person teaching and mentoring, I have created resources to help wider audiences gain knowledge. One example is a website for learning digital image correlation (DIC). This experimental technique is exploding in popularity and has been especially useful for the experiments in my dissertation. When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature and published them online: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/). 
 
 ## Selected publications
 1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2017. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
