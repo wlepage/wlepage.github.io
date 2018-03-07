@@ -81,7 +81,7 @@ Major findings:
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")<br />
 
 ## Selected awards
-+ Robert M. Caddell Memorial Award for Research (jointly with Sam Daly and John Shaw), 2018
++ Robert M. Caddell Memorial Award for Research (jointly with Prof. Sam Daly and Prof. John Shaw), 2018
 + Honorable mention, Richard and Eleanor Towner Prize for Outstanding Ph.D. Research, 2017
 + Best poster presentation, University of Michigan Materials Research Symposium, 2017
 + First prize, Young Stress Analyst Competition, British Society for Strain Measurement (BSSM) Conference, 2017
