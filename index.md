@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="centeredtext tagline">Ph.D. Candidate, University of Michigan<br />Mechanical Engineering</div>
+<div class="centeredtext tagline">Research Fellow, University of Michigan<br />Mechanical Engineering</div>
 <div id="mugshot">
 	<img src="img/profile.jpg" width="240" height="240" class="rounded8" />
 </div>
 
 ## Bio
-I am a Ph.D. student in Mechanical Engineering at the University of Michigan. For my dissertation, I am investigating the fatigue and fracture mechanics of shape memory alloys with techniques that redefine the limits of experimental mechanics. I'm also studying the coupled mechanical, electrochemical, and thermal interactions of lithium metal anodes for next-generation batteries. After completing my Ph.D., I seek to be a professor who equips and inspires students to serve people and the planet through engineering. 
+I am a postdoctoral researcher in Mechanical Engineering at the University of Michigan. My research combines materials science and solid mechanics to create, understand, and advance the next generation of materials for energy, health care, transportation, and beyond. My career goal is being a professor who equips and inspires students to serve people and the planet through engineering. 
 
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
@@ -18,7 +18,7 @@ I am a Ph.D. student in Mechanical Engineering at the University of Michigan. Fo
 	<img src="img/Michigan3.png" width="100" />
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
-	<figcaption>Ph.D., Mechanical Engineering, expected May 2018</figcaption>
+	<figcaption>Ph.D., Mechanical Engineering, 2018</figcaption>
 	<figcaption>M.S.E., Mechanical Engineering, 2015</figcaption>
 	</div>
 </figure>
@@ -36,22 +36,6 @@ I am a Ph.D. student in Mechanical Engineering at the University of Michigan. Fo
 I have always enjoyed helping others learn, and in graduate school, I discovered that my passion for teaching extends into formal classroom and mentoring settings, too. During my Ph.D., I mentored undergraduate students on their own research projects; delivered guest lectures for several courses; developed and delivered a course on renewable energy for senior citizens; and served as a graduate student instructor for a junior-level mechanics of materials course. Through these experiences, my desire to become an engineering professor has been affirmed.
 
 Along with in-person teaching and mentoring, I have created resources to help wider audiences gain knowledge. One example is a website for learning digital image correlation (DIC). This experimental technique is exploding in popularity and has been especially useful for the experiments in my dissertation. When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature and published them online: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/). 
-
-## Research Vision
-
-Our nation's energy, health, and security needs demand better materials for lightweight structures and energy storage systems. So far, my research has focused on understanding and enhancing the durability limits of two metals (shape memory alloys and lithium metal anodes). I look to expand my research into the following thrusts.
-
-__1. Connecting microscopic defects to macroscopic performance limits__
-
-Although the bulk properties of a material determine its maximum possible performance, the "weak links" of defects can severely reduce performance. Defects are problematic in many applications, from structural parts to biomedical devices and batteries, yet they often remain poorly understood. These efforts include expanding my expertise in micromechanical experiments to gain knowledge about performance-limiting defects, and then applying this new expertise to additional areas, such as advanced composites and additively manufactured metals.
-
-__2. Understanding and then leveraging tailorable anisotropies__
-
-New opportunities are emerging for structural materials with site-specific microstructures, such as tailored crystallographic orientations in additively manufactured metals. Through a multiscale experimental approach, I seek to answer, "How do site-specific microstructures interact and deform, and how can this tailorable anisotropy be optimized for structural performance?"
-
-__3. Linking interactions among multiphysical phenomena__
-
-I have studied two material systems with acute multiphysical interactions: shape memory alloys (thermo-mechanical), and lithium metal anodes (electro-chemo-mechanical). The challenges of multiphysical interactions extend into many other material systems, such as advanced metals and composites, biological materials, functional materials, and energy storage materials.
 
 ## Selected publications
 1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2017. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
