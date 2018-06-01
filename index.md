@@ -8,17 +8,19 @@ layout: default
 </div>
 
 ## Bio
-I am a postdoctoral researcher in Mechanical Engineering at the University of Michigan. My research combines materials science and solid mechanics to create, understand, and advance the next generation of materials for energy, health care, transportation, and beyond. My career goal is being a professor who equips and inspires students to serve people and the planet through engineering. 
+I am a postdoctoral researcher in Mechanical Engineering at the University of Michigan. My research combines materials science and solid mechanics to create, understand, and advance the next generation of materials for energy, health care, transportation, and beyond. My career goal is being a professor who inspires and equips students to be excellent engineers. 
 
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
 
-## Education
+## Experience
 <figure>
 	<img src="img/Michigan3.png" width="100" />
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
+	<figcaption>Post-doctoral researcher: solid-state structrual composite battery fabrication via vapor deposition</figcaption>
 	<figcaption>Ph.D., Mechanical Engineering, 2018</figcaption>
+	<figcaption>Dissertation: Fatigue in NiTi shape memory alloy</figcaption>
 	<figcaption>M.S.E., Mechanical Engineering, 2015</figcaption>
 	</div>
 </figure>
