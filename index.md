@@ -13,14 +13,15 @@ I am a postdoctoral researcher in Mechanical Engineering at the University of Mi
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
 
-## Experience
+## Research
+My current research focus is solid-state, structural battery development via atomic layer deposition. This builds upon my dissertation focus of fatigue and fracture in functional materials (specifically, shape memory alloys). By both building new materials with vapor deposition and characterizing their properties with advanced experiments, I can "close the loop" in materials design, creation, and characterization. 
+
+## Education
 <figure>
 	<img src="img/Michigan3.png" width="100" />
 	<div class="centeredtext">	
 	<h3>University of Michigan</h3>
-	<figcaption>Post-doctoral researcher: solid-state structrual composite battery fabrication via vapor deposition</figcaption>
 	<figcaption>Ph.D., Mechanical Engineering, 2018</figcaption>
-	<figcaption>Dissertation: Fatigue in NiTi shape memory alloy</figcaption>
 	<figcaption>M.S.E., Mechanical Engineering, 2015</figcaption>
 	</div>
 </figure>
