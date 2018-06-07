@@ -2,19 +2,20 @@
 layout: default
 ---
 
-<div class="centeredtext tagline">Research Fellow, University of Michigan<br />Mechanical Engineering</div>
+<div class="centeredtext tagline">Postdoctoral Fellow, University of Michigan<br />Mechanical Engineering</div>
 <div id="mugshot">
 	<img src="img/profile.jpg" width="240" height="240" class="rounded8" />
 </div>
 
 ## Bio
-I am a postdoctoral researcher in Mechanical Engineering at the University of Michigan. My research combines materials science and solid mechanics to create, understand, and advance the next generation of materials for energy, health care, transportation, and beyond. My career goal is being a professor who inspires and equips students to be excellent engineers. 
+My research combines materials science and solid mechanics to create, understand, and advance the next generation of materials for energy, health care, transportation, and beyond. My career goal is being a professor who inspires and equips students to be excellent engineers. 
 
 <div id="Ricons">
 	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
 	<img class="Ricon" src="img/gs.png" width="48" height="48" />
 	<figcaption>Find me on Google Scholar</figcaption>
 	</a>
+	<p>&nbsp;</p>
 	<a class="Ricon" href="../William_LePage.pdf">
 	<img class="Ricon" src="img/CVicon.png" width="48" height="48" />
 	<figcaption>View my complete CV</figcaption>
