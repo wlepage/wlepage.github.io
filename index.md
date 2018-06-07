@@ -19,7 +19,7 @@ I am a postdoctoral researcher in Mechanical Engineering at the University of Mi
 	<figcaption>Find me on Google Scholar</figcaption>
 	</a>
 	<a class="Ricon" href="../William_LePage.pdf">
-	<img class="Ricon" src="img/CV-01.png" width="48" height="48" />
+	<img class="Ricon" src="img/CVicon.png" width="48" height="48" />
 	<figcaption>View my complete CV</figcaption>
 	</a>
 </div>
