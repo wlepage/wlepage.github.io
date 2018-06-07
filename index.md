@@ -13,6 +13,17 @@ I am a postdoctoral researcher in Mechanical Engineering at the University of Mi
 ## Curriculum vitae
 [View my complete CV here](../William_LePage.pdf).
 
+<div id="Ricons">
+	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
+	<img class="Ricon" src="img/gs.png" width="48" height="48" />
+	<figcaption>Find me on Google Scholar</figcaption>
+	</a>
+	<a class="Ricon" href="../William_LePage.pdf">
+	<img class="Ricon" src="img/CV-01.png" width="48" height="48" />
+	<figcaption>View my complete CV</figcaption>
+	</a>
+</div>
+
 ## Research
 My current research focus is solid-state, structural battery development via atomic layer deposition. This builds upon my dissertation focus of fatigue and fracture in functional materials (specifically, shape memory alloys). By both building new materials with vapor deposition and characterizing their properties with advanced experiments, I can "close the loop" in materials design, creation, and characterization. 
 
@@ -68,12 +79,10 @@ Major findings:
 ![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")<br />
 
 ## Selected awards
++ First prize, International Student Paper Competition, Society for Experimental Mechanics (SEM) Conference, 2018
 + Robert M. Caddell Memorial Award for Research (jointly with Prof. Sam Daly and Prof. John Shaw), 2018
 + Honorable mention, Richard and Eleanor Towner Prize for Outstanding Ph.D. Research, 2017
 + Best poster presentation, University of Michigan Materials Research Symposium, 2017
 + First prize, Young Stress Analyst Competition, British Society for Strain Measurement (BSSM) Conference, 2017
 + Fellow, National Defense Science & Engineering Graduate (NDSEG) Program, 2014
 + Honorable mention, NSF Graduate Research Fellowship Program, 2014
-+ Fellow, Tau Beta Pi Anderson Fellowship, 2013
-+ Goldwater Scholar, 2012
-+ Udall Scholar, 2011 and 2012
