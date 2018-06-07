@@ -23,7 +23,7 @@ My research combines materials science and solid mechanics to create, understand
 </div>
 
 ## Research
-My current research focus is solid-state, structural battery development via atomic layer deposition. This builds upon my dissertation focus of fatigue and fracture in functional materials (specifically, shape memory alloys). By both building new materials with vapor deposition and characterizing their properties with advanced experiments, I can "close the loop" in materials design, creation, and characterization. 
+My current research focus is solid-state, structural battery development via atomic layer deposition. This expands upon my dissertation focus of characterizing fatigue in a unique class of functional-structural materials called shape memory alloys. By both building new materials with vapor deposition and characterizing their properties with advanced experiments, I can "close the loop" in materials design, creation, and characterization. 
 
 ## Education
 <figure>
