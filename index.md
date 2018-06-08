@@ -23,7 +23,7 @@ My research combines materials science and solid mechanics to create, understand
 </div>
 
 ## Research
-My current research focus is solid-state, structural battery development via atomic layer deposition, under the guidance of Neil Dasgupta. This expands upon my dissertation focus of characterizing fatigue in a unique class of functional-structural materials called shape memory alloys, which was under the guidance of Samantha Daly and John Shaw. By both building new materials with vapor deposition and characterizing them with advanced experiments, I can drive the next-generation of advanced materials by "closing the loop" in materials design, creation, and characterization. 
+For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition, under the guidance of Neil Dasgupta. For my dissertation, I investigated fatigue and fracture mechanics in a unique class of functional-structural materials called shape memory alloys, under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination: I can drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development. 
 
 ## Education
 <figure>
