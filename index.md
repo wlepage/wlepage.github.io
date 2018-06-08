@@ -16,7 +16,7 @@ My research combines materials science and solid mechanics to create, understand
 	<figcaption>Find me on Google Scholar</figcaption>
 	</a>
 </div>
-
+<p>&nbsp;</p>
 <div id="Ricons">
 	<a class="Ricon" href="../William_LePage.pdf">
 	<img class="Ricon" src="img/CVicon.png" width="48" height="48" />
