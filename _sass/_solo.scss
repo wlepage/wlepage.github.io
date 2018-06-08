@@ -178,7 +178,7 @@ div#Ricons {
 a.Ricon {
   text-decoration: none;
 }
-img.Ricon {
+div#Ricons img.Ricon {
     display: inline-block;
     height: 48px; 
     -webkit-filter: grayscale(100%);
@@ -187,7 +187,7 @@ img.Ricon {
     -o-filter:      grayscale(100%);
     filter: gray; 
 }
-img.Ricon:hover {
+div#Ricons:hover img.Ricon {
     filter: none;
     -webkit-filter: grayscale(0%);
     -moz-filter:    grayscale(0%);
