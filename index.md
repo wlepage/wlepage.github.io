@@ -7,9 +7,6 @@ layout: default
 	<img src="img/profile.jpg" width="240" height="240" class="rounded8" />
 </div>
 
-## Bio
-My research combines materials science and solid mechanics to create, understand, and advance the next generation of materials for energy, health care, transportation, and beyond. My career goal is being a professor who inspires and equips students to be excellent engineers. 
-
 <div id="Ricons">
 	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
 	<img class="Ricon" src="img/gs.png" width="48" height="48" />
@@ -25,7 +22,7 @@ My research combines materials science and solid mechanics to create, understand
 </div>
 
 ## Research
-For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated fatigue and fracture mechanics in shape memory alloys with new techniques for scanning electron microscopy digital image correlation (SEM-DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination: I can drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like SEM-DIC and manufacturing tools like ALD. 
+For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated fatigue and fracture mechanics in shape memory alloys with new techniques for scanning electron microscopy digital image correlation (SEM-DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials. With these skills, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like SEM-DIC and manufacturing tools like ALD. 
 
 ## Education
 <figure>
