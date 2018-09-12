@@ -22,7 +22,7 @@ layout: default
 </div>
 
 ## Research
-For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated fatigue and fracture mechanics in shape memory alloys with new techniques for scanning electron microscopy digital image correlation (SEM-DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials. With these skills, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like SEM-DIC and manufacturing tools like ALD. 
+For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated fatigue and fracture mechanics in shape memory alloys with new techniques for digital image correlation (DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials. Moving forward, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like DIC and manufacturing tools like ALD. 
 
 ## Education
 <figure>
@@ -55,18 +55,6 @@ Major findings:
 	+ macroscopic fatigue crack growth correlated well with microscopic crack tip observations: the grain sizes with relatively fast macroscopic crack growth rates exhibited large crack displacements at the microscale, and vice versa
 	+ crack closure was observed with SEM-DIC on the microscale (not with an indirect measurement like crack mouth gages), and crack closure in the 1500 nm grain size was suspected to slow its crack growth rate<br />
 ![Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")<br />
-1. __LePage W__, Shaw J, Daly S. Optimimum paint sequence for speckle patterns in digital image correlation. _Experimental Techniques_, 2017. [doi:10.1007/s40799-017-0192-3](http://doi.org/10.1007/s40799-017-0192-3)<br /><br />
-Major findings:
-	+ because black paint absorbs light and white paint scatters light, black paint has superior contrast over a basecoat of white paint than the converse sequence
-	+ patterns with black speckles had a 24% lower median normalized false displacement (0.87 μm) than the patterns with white speckles (1.14 μm), shown below as a cumulative distribution function (CDF)
-	+ the optimium painted speckle pattern for DIC is a random pattern of black speckles applied with about 50% density over a basecoat of white paint<br />
-![Optimum paint speckles sequence](img/TOC_paintspeckles.png "Optimum paint speckles sequence")<br />
-1. Chen K, Wood K, Kazyak E, __LePage W__, Davis A, Sanchez A, Dasgupta N. Dead lithium: mass transport effects on voltage, capacity, and failure of lithium metal anodes. _Journal of Materials Chemistry A_, 2017. [doi:10.1039/c7ta00371d](http://doi.org/10.1039/c7ta00371d)<br /><br />
-Major findings:
-	+ during continued cycling, dead Li accumulates and impedes ionic mass transport, requiring a greater concentration gradient for diffusion
-	+ this accumulated dead Li is responsible for capacity fade in Li metal full cells, before dendrite shorting or electrolyte depletion occur
-	+ voltage measurements during galvanostatic cycling indicate mass transport effects by changing from "peaking" to "arcing"<br />
-![Dead lithium mass transport effects](img/TOC_deadLi.png "Dead lithium mass transport effects")<br />
 1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2)<br /><br />
 Major findings:
 	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
