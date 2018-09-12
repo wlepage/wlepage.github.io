@@ -49,13 +49,13 @@ I have always enjoyed helping others learn, and in graduate school, I discovered
 Along with in-person teaching and mentoring, I have created resources to help wider audiences gain knowledge. One example is a website for learning digital image correlation (DIC). This experimental technique is exploding in popularity and has been especially useful for the experiments in my dissertation. When I began using DIC, there was not a single document or resource for learning how to execute high-quality DIC experiments, so I agglomerated a slew of best practices from the literature and published them online: [digitalimagecorrelation.org](http://digitalimagecorrelation.org/). 
 
 ## Selected publications
-1. __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2017. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
++ __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2017. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
 Major findings:
 	+ a new external scanning technique for SEM-DIC largely eliminated the drift, distortion, and scanning errors that otherwise require lengthy scan times and/or extensive post-processing to achieve accurate results
 	+ macroscopic fatigue crack growth correlated well with microscopic crack tip observations: the grain sizes with relatively fast macroscopic crack growth rates exhibited large crack displacements at the microscale, and vice versa
 	+ crack closure was observed with SEM-DIC on the microscale (not with an indirect measurement like crack mouth gages), and crack closure in the 1500 nm grain size was suspected to slow its crack growth rate<br />
 ![Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")<br />
-1. __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2)<br /><br />
++ __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2)<br /><br />
 Major findings:
 	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
 	+ eliminates saturated pixels to preserve sub-pixel displacement resolution
