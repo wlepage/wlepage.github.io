@@ -22,7 +22,7 @@ layout: default
 </div>
 
 ## Research
-For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated fatigue and fracture mechanics in shape memory alloys with new techniques for digital image correlation (DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials. Moving forward, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like DIC and manufacturing tools like ALD. 
+For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated fatigue and fracture mechanics in shape memory alloys with new techniques for digital image correlation (DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials and structures. Moving forward, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like DIC and manufacturing tools like ALD. 
 
 ## Education
 <figure>
