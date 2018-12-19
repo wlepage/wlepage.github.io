@@ -7,20 +7,6 @@ layout: default
 	<img src="img/profile.jpg" width="240" height="240" class="rounded8" />
 </div>
 
-<div id="Ricons">
-	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
-	<img class="Ricon" src="img/gs.png" width="48" height="48" />
-	<figcaption>Find me on Google Scholar</figcaption>
-	</a>
-</div>
-<p>&nbsp;</p>
-<div id="Ricons">
-	<a class="Ricon" href="../William_LePage.pdf">
-	<img class="Ricon" src="img/CVicon.png" width="48" height="48" />
-	<figcaption>View my complete CV</figcaption>
-	</a>
-</div>
-
 ## Education
 <figure>
 	<img src="img/Michigan3.png" width="100" />
@@ -43,6 +29,13 @@ layout: default
 
 ## Research
 For my postdoctoral research, I am developing solid-state, structural batteries via atomic layer deposition (ALD), under the guidance of Neil Dasgupta. In my dissertation, I investigated the fatigue and fracture mechanics of shape memory alloys with new techniques for digital image correlation (DIC), under the guidance of Samantha Daly and John Shaw. Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials and structures. Moving forward, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like DIC and manufacturing tools like ALD. 
+
+<div id="Ricons">
+	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
+	<img class="Ricon" src="img/gs.png" width="48" height="48" />
+	<figcaption>Find me on Google Scholar</figcaption>
+	</a>
+</div>
 
 ## Teaching
 I have always enjoyed helping others learn, and in graduate school, I discovered that my passion for teaching extends into formal classroom and mentoring settings, too. During my Ph.D., I mentored undergraduate students on their own research projects; delivered guest lectures for several courses; developed and delivered a course on renewable energy for senior citizens; and served as a graduate student instructor for a junior-level mechanics of materials course. Through these experiences, my desire to become an engineering professor has been affirmed.
