@@ -36,6 +36,12 @@ For my postdoctoral research, I am developing solid-state batteries that can be 
 </div>
 
 ## Selected publications
++ __LePage W__, Chen Y, Kazyak E, Chen K-H, Sanchez A, Poli A, Arruda E, Thouless MD, and Dasgupta N. Lithium Mechanics: Roles of Strain Rate and Temperature and Implications for Lithium Metal Batteries. _Journal of The Electrochemical Society_, _accepted_.<br /><br />
+Major findings:
+	+ the mechanical response of Li was measured in inert gas environments over a wide range of strain rates and temperatures
+	+ a power-law creep model was calibrated to predict Li deformation as a function of strain rate and temperature
+	+ from a general relationship between strain rate and current density, power-law creep is the dominant deformation mechanism over a wide range of battery-relevant conditions<br />
+![Lithium mechanics](img/TOC_LiMechanics.png "Lithium mechanics")<br />
 + __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2018. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
 Major findings:
 	+ a new external scanning technique for SEM-DIC largely eliminated the drift, distortion, and scanning errors that otherwise require lengthy scan times and/or extensive post-processing to achieve accurate results
