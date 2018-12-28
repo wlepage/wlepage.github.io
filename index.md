@@ -40,7 +40,7 @@ For my postdoctoral research, I am developing solid-state batteries that can be 
 Major findings:
 	+ the mechanical response of Li was measured in inert gas environments over a wide range of strain rates and temperatures
 	+ a power-law creep model was calibrated to predict Li deformation as a function of strain rate and temperature
-	+ from a general relationship between strain rate and current density, power-law creep is the dominant deformation mechanism over a wide range of battery-relevant conditions<br />
+	+ power-law creep is the dominant deformation mechanism over a wide range of battery-relevant conditions<br /><br />
 ![Lithium mechanics](img/TOC_LiMechanics.png "Lithium mechanics")<br />
 + __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2018. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
 Major findings:
