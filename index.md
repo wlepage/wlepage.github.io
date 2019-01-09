@@ -36,7 +36,7 @@ For my postdoctoral research, I am developing solid-state batteries that can be 
 </div>
 
 ## Selected publications
-+ __LePage W__, Chen Y, Kazyak E, Chen K-H, Sanchez A, Poli A, Arruda E, Thouless MD, and Dasgupta N. Lithium Mechanics: Roles of Strain Rate and Temperature and Implications for Lithium Metal Batteries. _Journal of The Electrochemical Society_, _accepted_.<br /><br />
++ __LePage W__, Chen Y, Kazyak E, Chen K-H, Sanchez A, Poli A, Arruda E, Thouless MD, and Dasgupta N. Lithium Mechanics: Roles of Strain Rate and Temperature and Implications for Lithium Metal Batteries. _Journal of The Electrochemical Society_, 2019. [https://doi.org/10.1149/2.0221902jes](https://doi.org/10.1149/2.0221902jes).<br /><br />
 Major findings:
 	+ the mechanical response of Li was measured in inert gas environments over a wide range of strain rates and temperatures
 	+ a power-law creep model was calibrated to predict Li deformation as a function of strain rate and temperature
