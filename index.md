@@ -26,7 +26,10 @@ layout: default
 </figure>
 
 ## Research
-For my postdoctoral research, I am developing solid-state batteries that can be incorporated into structural composites, as well as corrosion protection strategies for aluminum and magnesium. For both the solid-state battery electrodes and the corrosion protection layers, I am leveraging the precise thickness and composition control of atomic layer deposition (ALD). For my doctoral dissertation, I investigated the fatigue and fracture mechanics of shape memory alloys with new techniques for digital image correlation (DIC). Together, my dissertation and postdoc skills are a useful combination for both studying and creating materials and structures. Moving forward, I want to drive the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like DIC and manufacturing tools like ALD.
+My goal in research is forging the next-generation of materials by "closing the loop" in materials design, creation, characterization, and development through experimental approaches like DIC and manufacturing tools like ALD: 
+<br />
+![Closing the loop in structural materials: advanced experimental mechanics for new insights of damage informs precise surface engineering for improved structural materials.](img/approach-01.png "Closing the loop in structural materials: advanced experimental mechanics for new insights of damage informs precise surface engineering for improved structural materials.")<br />
+For my doctoral dissertation, I investigated the fatigue and fracture mechanics of shape memory alloys with new techniques for digital image correlation (DIC). For my postdoctoral research, I am developing solid-state batteries that can be incorporated into structural composites, as well as corrosion protection strategies for aluminum and magnesium. For both the solid-state battery electrodes and the corrosion protection layers, I am leveraging the precise thickness and composition control of atomic layer deposition (ALD). Moving forward, I am eager to connect my dissertation and postdoc skills for both studying and creating materials and structures. 
 
 <div id="Ricons">
 	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
