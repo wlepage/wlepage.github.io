@@ -26,10 +26,11 @@ layout: default
 </figure>
 
 ## Research
-My goal in research is forging the next-generation of materials by "closing the loop" in materials development through advanced experimental mechanics and precise surface engineering: 
+My goal in research is forging the next-generation of materials by "closing the loop" in materials development through advanced experimental mechanics and precise surface engineering. 
+By linking these thrusts, I envision my team accelerating materials research by developing new experimental approaches, gaining insights about material damage, and leveraging these insights to design better materials:
 <br />
 ![Closing the loop in structural materials: advanced experimental mechanics for new insights of damage informs precise surface engineering for improved structural materials.](img/approach-01.png "Closing the loop in structural materials: advanced experimental mechanics for new insights of damage informs precise surface engineering for improved structural materials.")
-For my doctoral dissertation, I investigated the fatigue and fracture mechanics of shape memory alloys with new techniques for digital image correlation. For my postdoctoral research, I am developing solid-state batteries that can be incorporated into structural composites, as well as corrosion protection strategies for aluminum and magnesium. For both the solid-state battery electrodes and the corrosion protection layers, I am leveraging the precise thickness and composition control of atomic layer deposition. Moving forward, I am eager to connect my dissertation and postdoc skills for both studying and creating new materials and structures. 
+For my doctoral dissertation, I investigated the fatigue of shape memory alloys with new techniques for digital image correlation. For my postdoctoral research, I am developing corrosion protection strategies for magnesium, as well as solid-state batteries that can be incorporated into structural composites. For both the corrosion protection layers and the solid-state battery electrodes, I am leveraging the precise thickness and composition control of atomic layer deposition. Moving forward, I am eager to connect skills from my dissertation and postdoctoral work to both study and create groundbreaking materials. 
 
 <div id="Ricons">
 	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
