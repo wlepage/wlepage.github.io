@@ -25,21 +25,14 @@ layout: default
 	</div>
 </figure>
 
-## Research
-My goal in research is forging the next-generation of materials by "closing the loop" in materials development through advanced experimental mechanics and precise surface engineering. 
-By linking these thrusts, I envision my team accelerating materials research by developing new experimental approaches, gaining insights about material damage, and leveraging these insights to design better materials:
-<br />
-![Closing the loop in structural materials: advanced experimental mechanics for new insights of damage informs precise surface engineering for improved structural materials.](img/approach-01.png "Closing the loop in structural materials: advanced experimental mechanics for new insights of damage informs precise surface engineering for improved structural materials.")
-For my doctoral dissertation, I investigated the fatigue of shape memory alloys with new techniques for digital image correlation. For my postdoctoral research, I am developing corrosion protection strategies for magnesium, as well as solid-state batteries that can be incorporated into structural composites. For both the corrosion protection layers and the solid-state battery electrodes, I am leveraging the precise thickness and composition control of atomic layer deposition. Moving forward, I am eager to connect skills from my dissertation and postdoctoral work to both study and create groundbreaking materials. 
-
-<div id="Ricons">
-	<a class="Ricon" href="https://scholar.google.com/citations?user=ACk2g1gAAAAJ">
-	<img class="Ricon" src="img/gs.png" width="48" height="48" />
-	<figcaption>Find me on Google Scholar</figcaption>
-	</a>
-</div>
-
 ## Selected publications
++ __LePage W__, Daly S, Shaw J. Effects of texture on the functional and structural fatigue of a NiTi shape memory alloy. Invited to _International Journal of Solids and Structures_.<br /><br />
+Major findings:
+	+ during load-unload cycles in uniaxial tension, nearly twice as much plasticity accumulated when the tensile axis was parallel to the rolling direction (RD) of the NiTi sheet versus parallel to the transverse direction (TD)
+	+ concomitant with its increased residual strain accumulation, the RD condition had a 25% lower fatigue threshold and a 200% faster fatigue crack growth rate than the TD condition
+	+ these macroscopic findings correlated with microscopic observations of crack closure: the RD crack tip opened at much lower stress intensities than the TD crack tip
+	+ these results suggest that if all other microstructural factors are the same (e.g. composition, grain size, and precipitates), then tension along the "difficult-to-transform" direction of the material (e.g. \[100], most closely resembled in the TD condition for the sheet in this work)<br />
+![Effects of texture on functional and structural fatigue of NiTi](img/TOC_texturefatigue.png "Effects of texture on functional and structural fatigue of NiTi")<br />
 + __LePage W__, Chen Y, Kazyak E, Chen K-H, Sanchez A, Poli A, Arruda E, Thouless MD, and Dasgupta N. Lithium Mechanics: Roles of Strain Rate and Temperature and Implications for Lithium Metal Batteries. _Journal of The Electrochemical Society_, 2019. [https://doi.org/10.1149/2.0221902jes](https://doi.org/10.1149/2.0221902jes).<br /><br />
 Major findings:
 	+ the mechanical response of Li was measured in inert gas environments over a wide range of strain rates and temperatures
@@ -52,13 +45,6 @@ Major findings:
 	+ macroscopic fatigue crack growth correlated well with microscopic crack tip observations: the grain sizes with relatively fast macroscopic crack growth rates exhibited large crack displacements at the microscale, and vice versa
 	+ crack closure was observed with SEM-DIC on the microscale (not with an indirect measurement like crack mouth gages), and crack closure in the 1500 nm grain size was suspected to slow its crack growth rate<br />
 ![Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")<br />
-+ __LePage W__, Daly S, Shaw J. Cross polarization for improved digital image correlation. _Experimental Mechanics_, 2016. [doi:10.1007/s11340-016-0129-2](http://doi.org/10.1007/s11340-016-0129-2)<br /><br />
-Major findings:
-	+ expedient method for optimizing a popular and powerful experimental mechanics technique, optical digital image correlation (DIC)
-	+ eliminates saturated pixels to preserve sub-pixel displacement resolution
-	+ improves correlation confidence interval by about 10%
-	+ reduces 2-D DIC error by up to 60%<br />
-![Cross polarization for improved DIC](img/TOC_crosspolarization.png "Cross polarization for improved DIC")<br />
 
 ## Selected awards
 + First place, International Student Paper Competition, Society for Experimental Mechanics (SEM) Conference, 2018
