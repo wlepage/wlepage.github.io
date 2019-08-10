@@ -31,20 +31,25 @@ Major findings:
 	+ during load-unload cycles in uniaxial tension, nearly twice as much plasticity accumulated when the tensile axis was parallel to the rolling direction (RD) of the NiTi sheet versus parallel to the transverse direction (TD)
 	+ concomitant with its increased residual strain accumulation, the RD condition had a 25% lower fatigue threshold and a 200% faster fatigue crack growth rate than the TD condition
 	+ these macroscopic findings correlated with microscopic observations of crack closure: the RD crack tip opened at much lower stress intensities than the TD crack tip
-	+ these results suggest that if all other microstructural factors are the same (e.g. composition, grain size, and precipitates), then tension along the "difficult-to-transform" direction of the material (e.g. \[100], most closely resembled in the TD condition for the sheet in this work)<br />
-![Effects of texture on functional and structural fatigue of NiTi](img/TOC_texturefatigue.png "Effects of texture on functional and structural fatigue of NiTi")<br />
+	+ these results suggest that if all other microstructural factors are the same (e.g. composition, grain size, and precipitates), then tension along the "difficult-to-transform" direction of the material (e.g. \[100], most closely resembled in the TD condition for the sheet in this work)
+
+![Effects of texture on functional and structural fatigue of NiTi](img/TOC_texturefatigue.png "Effects of texture on functional and structural fatigue of NiTi")
+
 + __LePage W__, Chen Y, Kazyak E, Chen K-H, Sanchez A, Poli A, Arruda E, Thouless MD, and Dasgupta N. Lithium Mechanics: Roles of Strain Rate and Temperature and Implications for Lithium Metal Batteries. _Journal of The Electrochemical Society_, 2019. [https://doi.org/10.1149/2.0221902jes](https://doi.org/10.1149/2.0221902jes).<br /><br />
 Major findings:
 	+ the mechanical response of Li was measured in inert gas environments over a wide range of strain rates and temperatures
 	+ a power-law creep model was calibrated to predict Li deformation as a function of strain rate and temperature
-	+ power-law creep is the dominant deformation mechanism over a wide range of battery-relevant conditions<br /><br />
-![Lithium mechanics](img/TOC_LiMechanics.png "Lithium mechanics")<br />
+	+ power-law creep is the dominant deformation mechanism over a wide range of battery-relevant conditions
+
+![Lithium mechanics](img/TOC_LiMechanics.png "Lithium mechanics")
+
 + __LePage W__, Ahadi A, Lenthe W, Sun QP, Pollock T, Shaw J, Daly S. Grain size effects on NiTi shape memory alloy fatigue crack growth. _Journal of Materials Research_, (invited feature paper), 2018. [https://doi.org/10.1557/jmr.2017.395](https://doi.org/10.1557/jmr.2017.395)<br /><br />
 Major findings:
 	+ a new external scanning technique for SEM-DIC largely eliminated the drift, distortion, and scanning errors that otherwise require lengthy scan times and/or extensive post-processing to achieve accurate results
 	+ macroscopic fatigue crack growth correlated well with microscopic crack tip observations: the grain sizes with relatively fast macroscopic crack growth rates exhibited large crack displacements at the microscale, and vice versa
-	+ crack closure was observed with SEM-DIC on the microscale (not with an indirect measurement like crack mouth gages), and crack closure in the 1500 nm grain size was suspected to slow its crack growth rate<br />
-![Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")<br />
+	+ crack closure was observed with SEM-DIC on the microscale (not with an indirect measurement like crack mouth gages), and crack closure in the 1500 nm grain size was suspected to slow its crack growth rate
+
+![Grain size effects on NiTi fatigue crack growth](img/TOC_grainsizeNiTiFatigue-01.png "Grain size effects on NiTi fatigue crack growth")
 
 ## Selected awards
 + First place, International Student Paper Competition, Society for Experimental Mechanics (SEM) Conference, 2018
